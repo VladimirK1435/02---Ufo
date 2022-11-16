@@ -6,21 +6,42 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>UFO</title>
   </head>
-  <body style="background-color: blue">
+  <body style="background-color: #4e78e5">
     <main
       style="
-        background-color: blue;
+        background-color: #4e78e5;
         width: 50%;
         margin-top: 100px;
         margin-left: 25%;
+        display: inline-block;
       "
     >
-      <div>
-        <h1 style="color: white">404</h1>
-        <p style="color: white; text-transform: uppercase">Page not found.</p>
+      <div
+        style="
+          width: 35%;
+          display: inline-block;
+          float: left;
+          margin-top: 100px;
+        "
+      >
+        <h1 style="color: white; font-size: 80px; margin: 0">404</h1>
+        <p
+          style="
+            color: white;
+            text-transform: uppercase;
+            font-size: 20px;
+            margin: 0 0 20px 0;
+          "
+        >
+          Page not found.
+        </p>
         <a href="#">Go to home</a>
       </div>
-      <img src="./img/UFO.jpg" alt="UFO spaceship" />
+      <img
+        src="./img/UFO.jpg"
+        alt="UFO spaceship"
+        style="width: 60%; display: inline-block; float: right"
+      />
     </main>
   </body>
 </html>
@@ -38,5 +59,14 @@ margin-top
 margin-right
 margin-bottom
 margin-left
+
+Elementu atvaizdavymas. 
+display block; - visi block elementai krenta vienas po kitu(dauguma elementu)
+display: inline;  - elementas elgiasi kaip zodis tekste.
+display: inline-block; - jeigu elementai telpa i viena eilute- suguls; jei netelpa, sekantis krenta i nauja eilute; jei jame yra daugiau turinio nei tilptu pas "ta teva", tai jo max plotis yra 100%.
+Privirstinis elementu sustumimas pasirinkta kryptimi:
+float: left;
+float: right;
+
 
 -->
