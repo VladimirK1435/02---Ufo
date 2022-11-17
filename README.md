@@ -15,7 +15,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: [[https://github.com/VladimirK1435/02---Ufo](https://vladimirk1435.github.io/02---Ufo/)
+Site published at: [[https://github.com/VladimirK1435/02---Ufo](https://vladimirk1435.github.io/02---Ufo/)]
 
 Design: [UFO](./img/design.webp)
 
