@@ -1,12 +1,18 @@
 # 02---Ufo
+
 Simple design learning HTML and CSS
-# = h1
-## = h2
+
+# hi = h1
+
+## hi = h2
+
 ...
-######= h6
+
+###### hi= h6
 
 - = bullets
 
 []
 [x] - checkbox
-[name] (url) - 
+[name] (url) -
+[Ufo in the sky] (./img/ufo.jpg)
