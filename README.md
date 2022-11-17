@@ -15,4 +15,6 @@ Simple design learning HTML and CSS
 []
 [x] - checkbox
 [name] (url) -
-[Ufo in the sky] (./img/ufo.jpg)
+[Ufo in the sky](./img/ufo.jpg)
+
+Simple _**design**_, learning ** HTML** and _CSS_
