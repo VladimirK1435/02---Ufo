@@ -3,6 +3,7 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 ![GMO Free Status](https://img.shields.io/badge/GMO-Free-green.svg)
+![Visitors Friendly Status](https://img.shields.io/badge/Visitors-Friendly-green.svg)
 
 # UFO
 
